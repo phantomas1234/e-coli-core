@@ -3614,7 +3614,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species boundaryCondition="false" constant="false" metaid="M_atp_c" hasOnlySubstanceUnits="false" sboTerm="SBO:0000247" compartment="c" name="ATP" fbc:chemicalFormula="C10H12N5O13P3"
+      <species boundaryCondition="false" constant="false" metaid="M_atp_c" hasOnlySubstanceUnits="false" sboTerm="SBO:0000247" compartment="c" name="ATP" fbc:chemicalFormula="C30H12N5O13P3"
       id="M_atp_c">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">

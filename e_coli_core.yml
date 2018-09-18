@@ -499,7 +499,7 @@
     - id: atp_c
     - name: ATP
     - compartment: c
-    - formula: C10H12N5O13P3
+    - formula: C30H12N5O13P3
     - annotation: !!omap
       - SBO: SBO:0000247
       - bigg.metabolite: atp
